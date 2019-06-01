@@ -62,7 +62,7 @@
     <Compile Include="Capitulo_10\Capitulo10.Designer.cs">
       <DependentUpon>Capitulo10.cs</DependentUpon>
     </Compile>
-    <Compile Include="Capitulo_10\Ejercicio 2\Estudiantes.cs" />
+    <Compile Include="Capitulo_10\Ejercicio2\Estudiantes.cs" />
     <Compile Include="Capitulo_10\Ejercicio1\Inventario.cs" />
     <Compile Include="Capitulo_10\Ejercicios_3_4_y_5\Poligono.cs" />
     <Compile Include="Capitulo_9\Capitulo9.cs">
