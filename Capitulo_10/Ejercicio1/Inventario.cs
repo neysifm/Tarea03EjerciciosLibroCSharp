@@ -8,12 +8,12 @@ namespace Ejercicios.Capitulo_10
 {
     public class Inventario
     {
-        public int CodigoProducto { get; set; }
-        public string NombreProducto { get; set; }
+        public int CodigoProducto     { get; set; }
+        public string NombreProducto  { get; set; }
         public string DescripcionProducto { get; set; }
-        public float PrecioProducto { get; set; }
-        public int CantidadProducto { get; set; }
-        public string Gondola { get; set; }
+        public float PrecioProducto    { get; set; }
+        public int CantidadProducto    { get; set; }
+        public string Gondola          { get; set; }
         public DateTime FechaCaducidad { get; set; }
 
         public Inventario()
